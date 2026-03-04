@@ -3,6 +3,7 @@
 2) Open the URL to test your JavaScript code.
 
 Limitations: To prevent abuse, external files and external network connections are not allowed.
+
 Available libraries: LZString + [GolfJS](https://github.com/pretpo/GolfJS) 
 
 ###
@@ -12,4 +13,5 @@ Available libraries: LZString + [GolfJS](https://github.com/pretpo/GolfJS)
 2) Acesse a URL para testar seu código JavaScript.
 
 Limitações: Para evitar abusos, arquivos externos e conexões externas não são permitidos.
+
 Libraries disponíveis: LZString + [GolfJS](https://github.com/pretpo/GolfJS) 
