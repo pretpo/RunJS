@@ -277,7 +277,9 @@
             scriptElement.A("type", "text/javascript");
 
             B.AC(scriptElement);
-            ID("loader").remove();
+            if(ID("loader")) {
+                ID("loader").remove();
+            }
         }
 
         function noLink() {
@@ -288,7 +290,9 @@
                 return false;
             }
 
-            ID("loader").remove();
+            if(ID("loader")) {
+                ID("loader").remove();
+            }
             B.H = '<div id="no-link">This url is invalid. Check <a href="https://github.com/pretpo/RunJS">https://github.com/pretpo/RunJS</a> for docs.</div>';
         }
 
